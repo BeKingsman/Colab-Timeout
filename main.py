@@ -11,8 +11,9 @@ if(n>1):
        WAIT_TIME=int(sys.argv[1]) 
     except:
         print("Invalid Argument!")
-        
-print("Setting wait time to 30 seconds")
+
+     
+print("Setting wait time to "+str(WAIT_TIME)+" seconds")
 
 time.sleep(WAIT_TIME)
 
