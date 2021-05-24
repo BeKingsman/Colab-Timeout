@@ -20,9 +20,14 @@ Setup
     
     
 Ececute Script
-        python main.py       // Default Wait Time will be 30 seconds
+
+        python main.py       
+        // Default Wait Time will be 30 seconds
+        
         OR
-        python main.py 100   // Wait Time will be 100 seconds
+        
+        python main.py 100   
+        // Wait Time will be 100 seconds
         
   
 
